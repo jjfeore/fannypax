@@ -2,6 +2,10 @@ body {
   background-color: #00FF00;
 }
 
+#all-four {
+  margin: 20px 0 0 20px;
+}
+
 .avatars {
   margin: 0 20px 0 0;
   box-shadow: 0 0 6px 6px #0f0;
